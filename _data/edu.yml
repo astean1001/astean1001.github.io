@@ -19,14 +19,21 @@
 
 - title: The Next-Generation Security Leaders Program, KITRI
   deg: Vulnerability Assessment Track Trainee
-  startTime: 2015.05
-  endTime: 2017.03
+  startTime: 2015-05
+  endTime: 2017-03
   courses:
     - Windows Programming
     - Web Hacking
     - Embedded Programming
     - Reverse Engineering
     - Linux Programming
+
+- title: Research Exchange Program, Shibaura Institute of Technology
+  deg: Exchange Student
+  startTime: 2018-01
+  endTime: 2018-01
+  courses:
+    - Electrical Engineering Basics (Prof. Chintaka Premachandra)
 
 - title: Pohang Jecheol High School
   deg: Graduated
