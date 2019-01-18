@@ -3,7 +3,7 @@
     - name: Django
       level: 2
     - name: Flask
-      level: 1
+      level: 2
     - name: PHP
       level: 2
 
