@@ -1,4 +1,4 @@
-- title: Methodology for SSL VPN ActiveX modules' vulnerability analysis using fuzzing techniques (2016.12)
+- title: Methodology for SSL VPN ActiveX modules' vulnerability analysis using fuzzing techniques (CISC16)
   link: http://seclab.skku.edu/cisc2016/fin.php
   desc: Ho Hwang, Philkeun Park, Donghyun Kim, Yongjun Lee, Jehyoung Lee
 
@@ -6,6 +6,11 @@
   link: http://warning.or.kr
   desc: Found 19 Vulnerabilities in Network Security Products
 
-- title: Cross-Language Clone Detection based on Common Token
+- title: Cross-Language Clone Detection based on Common Token (JSAV18)
   link: http://www.i3.or.kr/html/paper/2018-2/2018-2.htm
   desc: Sung-Moon Hong, Hyunha Kim, Jehyoung Lee, Sung-Woo Park, Jihwan Mo, Kyung-Goo Doh
+
+- title: Android Demo Generation using Code Coverage (KCC20)
+  link: http://kcc2020.itsp.co.kr/
+  desc: Jehyoung Lee, Woosuk Lee
+

@@ -1,22 +1,16 @@
 - title: Test organizers
   org: Hanyang University ERICA
   startTime: 2015-04
-  endTime: 2015-05
-  desc: Organize Contest Environment and Programming Problems For 2nd Hanyang University ERICA Programming Contest.
-
-- title: Test organizers
-  org: Hanyang University ERICA
-  startTime: 2017-02
   endTime: 2017-05
-  desc: Organize Contest Environment and Programming Problems For 3rd Hanyang University ERICA Programming Contest.
+  desc: Organize Contest Environment (Customized Ranking/Evaluation Server) and Programming Problems For 2nd, 3rd Hanyang University ERICA Programming Contest.
 
-- title: Software Instructor
+- title: Programming Instructor
   org: Naver Connect Foundation
   startTime: 2017-04
   endTime: 2018-02
-  desc: Teach Software (Especially Entry, naver made python-based language) to Children.
+  desc: Teach Software (Especially Entry, python-based language) to Children.
 
-- title: Developer
+- title: Development Manager
   org: Bloomengine Inc.
   startTime: 2017-06
   endTime: 2018-07
@@ -39,3 +33,9 @@
   startTime: 2019-10
   endTime: Present
   desc: Partner in Hillstone Global Ltd.
+
+- title: Chief Technology Officer
+  org: Hillstone Foundation
+  startTime: 2020-08
+  endTime: Present
+  desc: CTO in Hillstone Foundation

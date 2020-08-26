@@ -1,7 +1,16 @@
-- title: PlaSSE Research Laboratory, Hanyang University ERICA
-  deg: Undergraduate Researcher
-  startTime: 2015-09
+- title: Programming Systems Laboratory, Hanyang University ERICA
+  deg: Ph.D. Student
+  startTime: 2020-03
   endTime: Present
+  courses:
+    - Static Program Analysis
+    - Program Synthesis
+    - Programming Language Theories
+
+- title: PlaSSE Research Laboratory, Hanyang University ERICA
+  deg: Undergraduate Intern
+  startTime: 2015-09
+  endTime: 2019-02
   courses:
     - Static Program Analysis
     - Machine Learning
