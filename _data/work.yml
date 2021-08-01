@@ -25,8 +25,8 @@
 - title: Chief Executive Officer
   org: ADEVT Co.
   startTime: 2018-12
-  endTime: Present
-  desc: CEO in ADEVT Co.
+  endTime: 2021-06
+  desc: CEO in ADEVT Co. (Exited)
 
 - title: Partner
   org: Hillstone Global Ltd.
@@ -35,7 +35,19 @@
   desc: Partner in Hillstone Global Ltd.
 
 - title: Chief Technology Officer
-  org: Hillstone Foundation
+  org: Hillstone Finance Foundation
   startTime: 2020-08
   endTime: Present
   desc: CTO in Hillstone Foundation
+
+- title: Technical Lead
+  org : Gymmon Co.
+  startTime: 2021-04
+  endTime: Present
+  desc: Technical Lead in Gymmon Co.
+
+- title: Security Engineer
+  org: HAECHI AUDIT
+  startTime: 2021-04
+  endTime: Present
+  desc: Security Engineer in HAECHI AUDIT
