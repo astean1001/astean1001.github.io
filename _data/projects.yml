@@ -1,0 +1,24 @@
+- title: Methodology for SSL VPN ActiveX modules' vulnerability analysis using fuzzing techniques (CISC16)
+  link: http://seclab.skku.edu/cisc2016/fin.php
+  desc: Ho Hwang, Philkeun Park, Donghyun Kim, Yongjun Lee, Jaehyung Lee
+
+- title: Vulnerability Assessment on Network Security Products
+  link: http://warning.or.kr
+  desc: Found 19 Vulnerabilities in Network Security Products
+
+- title: Cross-Language Clone Detection based on Common Token (JSAV18)
+  link: http://www.i3.or.kr/html/paper/2018-2/2018-2.htm
+  desc: Sung-Moon Hong, Hyunha Kim, Jehyoung Lee, Sung-Woo Park, Jihwan Mo, Kyung-Goo Doh
+
+- title: Android Demo Generation using Code Coverage (KCC20)
+  link: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874743
+  desc: Jaehyung Lee, Woosuk Lee
+
+- title: "MADUSA: Mobile Application Demo Generation based on Usage Scenarios (ASE2023)"
+  link: https://doi.org/10.1007/s10515-022-00372-8
+  desc: Jaehyung Lee, Hangyeol Cho, and Woosuk Lee
+
+- title: "Simplifying Mixed Boolean-Arithmetic Obfuscation by Program Synthesis and Term Rewriting (CCS2023)"
+  link: https://dl.acm.org/doi/10.1145/3576915.3623186
+  desc: Jaehyung Lee, Woosuk Lee
+

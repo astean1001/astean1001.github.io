@@ -1,0 +1,50 @@
+- title: Programming Systems Laboratory, Hanyang University ERICA
+  deg: Ph.D. Candidate
+  startTime: 2020-03
+  endTime: Present
+  courses:
+    - Static Program Analysis
+    - Program Synthesis
+    - Programming Language Theories
+
+- title: PlaSSE Research Laboratory, Hanyang University ERICA
+  deg: Undergraduate Intern
+  startTime: 2015-09
+  endTime: 2019-02
+  courses:
+    - Static Program Analysis
+    - Machine Learning
+    - Programming Language Theories
+
+- title: Hanyang University ERICA
+  deg: Undergraduate
+  startTime: 2015-03
+  endTime: 2019-02
+  courses:
+    - Data Structures
+    - Programming Methodologies
+    - System Programming
+    - Practical Mobile Application Development
+
+- title: The Next-Generation Security Leaders Program, KITRI
+  deg: Vulnerability Assessment Track Trainee
+  startTime: 2015-05
+  endTime: 2017-03
+  courses:
+    - Windows Programming
+    - Web Hacking
+    - Embedded Programming
+    - Reverse Engineering
+    - Linux Programming
+
+- title: Research Exchange Program, Shibaura Institute of Technology
+  deg: Exchange Student
+  startTime: 2018-01
+  endTime: 2018-01
+  courses:
+    - Electrical Engineering Basics (Prof. Chintaka Premachandra)
+
+- title: Pohang Jecheol High School
+  deg: Graduated
+  startTime: 2012
+  endTime: 2014

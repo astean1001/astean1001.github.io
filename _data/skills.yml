@@ -1,0 +1,53 @@
+- title: Server
+  items:
+    - name: Django
+      level: 2
+    - name: Flask
+      level: 2
+    - name: PHP
+      level: 2
+
+- title: Web
+  items:
+    - name: CSS
+      level: 2
+    - name: JavaScript
+      level: 2
+    - name: HTML
+      level: 2
+
+- title: Languages
+  items:
+    - name: C
+      level: 3
+    - name: C++
+      level: 3
+    - name: Java
+      level: 2
+    - name: Python
+      level: 3
+    - name: Rust
+      level: 2
+    - name: OCaml
+      level: 3
+    - name: Solidity
+      level: 4
+
+
+- title: Services
+  items:
+    - name: Heroku
+      level: 1
+    - name: GitHub
+      level: 2
+
+- title: Misc
+  items:
+    - name: Full Penetration Test
+      level: 3
+    - name: Database
+      level: 2
+    - name: Designing
+      level: 0
+    - name: Scripting
+      level: 3
