@@ -22,3 +22,10 @@
   link: https://dl.acm.org/doi/10.1145/3576915.3623186
   desc: Jaehyung Lee, Woosuk Lee
 
+- title: "Distance-Guided Search in Program Synthesis with Imperfect LLM Solutions (ICSE2026)"
+  link: https://psl.hanyang.ac.kr/assets/pdf/icse26.pdf
+  desc: Hangyeol Cho, Jaehyung Lee, Woosuk Lee
+
+- title: "Simplifying Mixed Boolean-Arithmetic Obfuscation by Program Synthesis and Equality Saturation (TOSEM2026, Accepted)"
+  link: TBA
+  desc: Jaehyung Lee, Seoksu Lee, Eunsun Cho, Woosuk Lee
